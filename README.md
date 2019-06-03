@@ -4,10 +4,6 @@ Another VSCode light theme
 
 Forked from - https://github.com/dhershman1/dusty-light
 
-## Contributing
-
-Feel free to open a PR for stuff you find, or simply report it via the github issues so I can also take a look at it.
-
 ## Preview
 
 ### JavaScript
