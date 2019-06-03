@@ -1,4 +1,4 @@
-# Doug's Dusty Light
+# Doug's Dusty Light Theme
 
 Another VSCode light theme
 
