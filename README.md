@@ -4,7 +4,7 @@ Another VSCode light theme
 
 Forked from - https://github.com/dhershman1/dusty-light
 
-Inspired by MDN doccs style
+Inspired by MDN docs style
 
 ## Preview
 
