@@ -11,7 +11,6 @@
     "button.foreground": "#2D3033",
     "button.hoverBackground": "#f2f2f2",
     "editor.background": "#ebebeb",
-    "editor.foreground": "#ffffff",
     "editor.invisibles": "#DDDDDD",
     "editor.lineHighlightBackground": "#f5f5f5",
     "editor.rangeHighlightBackground": "#FDF7DD",
@@ -214,6 +213,15 @@
         "beginning.punctuation.definition.quote.markdown",
         "meta.directive.vue",
         "markup.italic.markdown"
+      ],
+      "settings": {
+        "foreground": "#0315b6"
+      }
+    },
+    {
+      "name": "Markdown",
+      "scope": [
+        "meta.paragraph.markdown",
       ],
       "settings": {
         "foreground": "#0315b6"
