@@ -23,7 +23,7 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#FAEBAF",
     "editorWhitespace.foreground": "#eeeeee",
     "list.activeSelectionBackground": "#e7e7e7",
-    "list.activeSelectionForeground:":"#000000",
+    "list.activeSelectionForeground":"#000000",
     "list.inactiveSelectionBackground": "#d0d0d0",
     "peekViewResult.fileForeground": "#2D3033",
     "peekViewResult.lineForeground": "#2D3033",
